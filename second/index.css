@@ -1,0 +1,67 @@
+.body {
+    padding: 25px;
+}
+.solid-reactangle {
+    border: 10px solid black;
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0 auto; 
+    padding: 10px ; 
+}
+
+.purple-reactangle {
+    height: 100px;
+    width: 30px;
+    background: purple;
+    display: inline-block;
+    margin-right: 25px;
+}
+
+.green-reactangle {
+    height: 150px;
+    width: 300px;
+    background: green;
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.blue-circle {
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    background: lightblue;
+    display: inline-block;
+}
+
+.dotted-rectangle {
+    width: 100%;
+    border: 10px dotted black;
+    box-sizing: border-box;
+    margin-top: 30px;
+    padding: 50px;
+}
+
+.tan-rectangle {
+    width: 100%;
+    height: 200px;
+    box-shadow: 10px 10px 5px black;
+    background: rgb(219, 200, 174);
+}
+
+.hello-friends {
+    margin: 30px auto;
+    height: 200px;
+    width: 400px;
+    padding: 50px;
+    text-align: center;
+    box-shadow: 5px 5px 5px rgb(211, 206, 206);
+    border: 1px solid rgb(211, 208, 208);
+}
+.text {
+    height: 100%;
+    font-size: 40px;
+    letter-spacing: 10px;
+    text-align: center;
+    margin: 15%;
+    color: navy;
+}
